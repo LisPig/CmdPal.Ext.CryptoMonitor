@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "CmdPal.Ext.CryptoMonitor (Package)": {
+      "commandName": "MsixPackage",
+      "doNotLaunchApp": true
+    },
+    "CmdPal.Ext.CryptoMonitor (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

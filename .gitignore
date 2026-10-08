@@ -1,0 +1,26 @@
+# Build output
+bin/
+obj/
+stage/
+
+# Packages produced by build-deploy.ps1
+*.msix
+*.msixbundle
+*.appx
+*.appxupload
+deploy.log
+
+# Dev signing material — never commit the private key
+*.pfx
+*.snk
+
+# IDE / editor
+.vs/
+.idea/
+*.user
+*.suo
+*.userprefs
+
+# OS
+Thumbs.db
+desktop.ini
